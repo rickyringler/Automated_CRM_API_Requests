@@ -1,3 +1,5 @@
+NOTE: All platforms' APIs are constructed differently. This merely serves as a _framework_ for successful API requests working conjunctively.
+
 CONTEXT:
 1. Generating a scope from a CRM console.
 2. Getting data from a job GET request. Ex: Salesforce Analytics.
