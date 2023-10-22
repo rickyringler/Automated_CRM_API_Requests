@@ -1,3 +1,8 @@
+CONTEXT:
+1. Generating a scope from a CRM console.
+2. Getting data from a job GET request. Ex: Salesforce Analytics.
+3. Updating records from a PUT request.
+
 Why?
 API requests can be automated to reduce manual labor and enforce data consistency.
 
